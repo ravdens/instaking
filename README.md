@@ -1,0 +1,2 @@
+# instaking
+Instagram Bot
